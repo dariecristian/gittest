@@ -1,0 +1,35 @@
+body{
+    display: grid;
+    grid-template-columns: auto;
+    border: 3px solid violet;
+    background-color: #ffffff;   
+}
+header{
+    border: 1px solid  red;    
+}
+section#main{
+    text-align: center;
+    width: 504px;
+    height: 98px;
+    left: 102px;
+    top: 217px;
+    border: 1px solid red;
+}
+section#c1{
+    border: 1px solid red;
+}
+section#c2{
+    border: 1px solid red;
+}
+section#c3{
+    border: 1px solid red;
+}
+section#c4{
+    border: 1px solid red;
+}    
+section#c5{
+    border: 1px solid red;
+}
+section#c6{
+    border: 1px solid red;
+}
